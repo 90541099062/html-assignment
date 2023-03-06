@@ -34,7 +34,7 @@ nav ul {
   gap: 10px;
 }
 
-nav a {
+   nav a {
   text-decoration: none;
   background-color: #eee;
   border: 1px solid #333;
